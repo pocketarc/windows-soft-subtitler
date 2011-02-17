@@ -1,0 +1,1 @@
+php add-subtitles.php %1
