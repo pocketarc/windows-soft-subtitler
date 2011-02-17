@@ -1,0 +1,19 @@
+Terra Soft Subtitler
+====================
+
+Add soft subtitles to .mp4 videos with a simple drag&drop. Soft subtitles are compatible with all Apple devices, including iPod, iPhone, iPad, Apple TV and iTunes, and can be turned on or off.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+System Requirements
+---------------
+
+You need php in your executable path. Odds are that you don't have PHP. I'll add the details of how to do it later on, but if you need any help doing that, send an email to bruno@terraduo.com, and I'll reply within 24 hours, to help you out.
+
+NOTE: You can always just use Google to find out how to "install php" and "add php to executable path on windows", if you want to try and do it by yourself.
+
+Using the Terra Soft Subtitler
+------------------------------
+
+There's a command line script to do everything for you. Just drag your .mp4 file to the add-subtitles.bat file, and a command line window should open automatically. Let it work. When it disappears, that means your subtitles have been added and everything's ship-shape.
+
+That's it! If there's anything you didn't understand, a bug you want to report, a suggestion, or anything else, just let me know.                                      
